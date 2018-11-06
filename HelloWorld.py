@@ -1,5 +1,8 @@
 print("Hello world")
 print("abc")
+print('Shiraz')
+print(12)
+
 
 print("x","y")
 
